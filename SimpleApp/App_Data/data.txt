@@ -1,0 +1,6 @@
+﻿1, Mobile Phone, 600, White color 256 Gb, 5, phones
+2, Laptop, 3200, 15 Dell i5 256Gb 1000 Tb, 2, pc
+3, Keyboard, 35, Ukraine layout, 15, pc
+4, Mouse, 10, Logitech 5 keys, 20, pc
+5, Pen, 1, Simple blue, 100, other
+6, Notebook, 1, Lenovo b/u, 0, pc
